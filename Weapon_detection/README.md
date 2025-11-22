@@ -15,10 +15,3 @@ This project detects guns in live video feeds using **OpenCV** and **Haar cascad
 - Bounding boxes around detected objects
 - Logs detection events in console
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd Weapon_Detection
